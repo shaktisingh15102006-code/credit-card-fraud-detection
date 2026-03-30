@@ -1,4 +1,4 @@
-# 🚀 Top 1% Data Analyst Project: Customer Churn Prediction & Business Strategy
+# 🚀 Customer Churn Prediction & Business Strategy
 
 ## 📌 Overview
 
