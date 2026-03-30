@@ -188,7 +188,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-Your Name
+Shakti Singh Rajawat
 
 ---
 
