@@ -60,7 +60,7 @@ Example datasets:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/customer-churn-analysis.git
+git clone https://github.com/shaktisingh15102006/credit-card-fraud-detection.git
 cd customer-churn-analysis
 ```
 
